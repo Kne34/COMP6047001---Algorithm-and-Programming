@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout << "Name: Keane Wilson Prakoso \n Favorite Programming Language: C++";
+    cout << "Name: Keane Wilson Prakoso\nFavorite Programming Language: C++";
     return 0;
 }
